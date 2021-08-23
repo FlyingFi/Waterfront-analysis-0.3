@@ -4,7 +4,7 @@ This grasshopper definition is for site analysis/mapping of a city waterfront. I
 **What you need:**
 - Grasshopper in Rhino 6 or 7 for either windows or mac.
 - Install 'Caribou' (must) & 'Human' (maybe) to allow the definition to work properly.
-- Download OpenStreet Map data, suggested file size of 50MB.
+- Download OpenStreet Map data, suggested file size of 50MB (make sure the OpenStreet Map data is good quality, otherwise it does not work well)
 
 **The result map consisting layers of:**
 - A base layer - coastline & major railways & waterways
