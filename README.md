@@ -29,7 +29,8 @@ Those boxes are required to be set with curves or data to allow the definition t
 
 **Main functions**
 
-1. Add in main waterfront coastline buffer zones 
+1. Add in main waterfront coastline buffer zones
+
 ![Frame_00000](https://user-images.githubusercontent.com/88997408/134806661-79e0d0e4-714a-4ea1-ae77-3eafcc654d39.gif)
 
 2. 2 ways of setting up planning zone(s) for investigation
