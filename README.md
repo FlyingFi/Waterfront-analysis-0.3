@@ -50,4 +50,5 @@ Option2: Set your own region(s) - any shape
 ![Screen-Shot-2021-09-26-at-7 34 05-PM](https://user-images.githubusercontent.com/88997408/134806927-4a5fce95-f373-4493-b418-03873a2dce71.gif)
 
 **Final map**
+
 <img width="796" alt="Screen Shot 2021-09-26 at 7 43 47 PM" src="https://user-images.githubusercontent.com/88997408/134806803-acafb037-dfae-4158-ab0d-a734d56736d9.png">
