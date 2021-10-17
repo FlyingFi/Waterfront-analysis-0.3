@@ -21,6 +21,9 @@ This grasshopper definition is designed for urban planners and landscape archite
 
 **Video Instruction**
 
+https://youtu.be/91qiMOWarvs
+
+
 **Main functions**
 
 1. 2 ways of setting up planning zone(s) for investigation
