@@ -23,7 +23,7 @@ This grasshopper definition is designed for urban planners and landscape archite
 
 ![IMAGE ALT TEXT](http://img.youtube.com/vi/91qiMOWarvs/0.jpg)
 
-(http://www.youtube.com/watch?v=91qiMOWarvs"Video instruction")
+(https://youtu.be/91qiMOWarvs "Video instruction")
 
 
 **Main functions**
