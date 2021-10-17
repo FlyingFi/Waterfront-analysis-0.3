@@ -45,10 +45,8 @@ Option2: Set your own region(s) - any shape
 ![Screen-Shot-2021-09-26-at-7 34 05-PM](https://user-images.githubusercontent.com/88997408/134806927-4a5fce95-f373-4493-b418-03873a2dce71.gif)
 
 **Special acknowledgement**
+
 Thanks to Philip Belesky, who developed the Grasshopper plug-in Caribou. For more details on Caribou, please refer to the following website.
 https://caribou.philipbelesky.com
 Thanks to Andrew Heumann, who developed the Grasshopper plug-in Human - which is very useful for enhancing display function in Grasshopper.
 https://www.food4rhino.com/en/app/human
-
-**Note:**
-The Grasshopper file will take around 5mins when the first time loading.
